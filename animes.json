@@ -1,22 +1,48 @@
 [
-      {
-        "id": 1,
-        "titulo": "Death Note",
-        "descricao": "Light Yagami encontra um misterioso caderno que concede o poder de matar qualquer pessoa cujo nome seja escrito nele.",
-        "generos": ["Mistério", "Suspense", "Psicológico"],
-        "quantidadeEpisodios": 37,
-        "urlEpisodio": "https://lightspeedst.net/s3/mp4/death-note/sd/",
-        "urlImagem": "https://cdn.culturagenial.com/imagens/death-note-cartaz.jpg"
-      },
-      {
-        "id": 2,
-        "titulo": "Nome do Anime 2",
-        "descricao": "Descrição do Anime 2",
-        "generos": ["Comédia", "Romance"],
-        "quantidadeEpisodios": 24,
-        "urlEpisodio": "URL do episódio 2",
-        "urlImagem": "URL da imagem do Anime 2"
-      }
-    ]
-
+    {
+      "id": 1,
+      "titulo": "Death Note",
+      "descricao": "Light Yagami encontra um misterioso caderno que concede o poder de matar qualquer pessoa cujo nome seja escrito nele.",
+      "generos": ["Mistério", "Suspense", "Psicológico"],
+      "quantidadeEpisodios": 37,
+      "urlEpisodio": "https://lightspeedst.net/s3/mp4/death-note/sd/",
+      "urlImagem": "https://cdn.culturagenial.com/imagens/death-note-cartaz.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Fullmetal Alchemist: Brotherhood",
+      "descricao": "A história segue os irmãos Edward e Alphonse Elric em sua busca pela Pedra Filosofal para restaurar seus corpos após um desastroso experimento de alquimia.",
+      "generos": ["Ação", "Aventura", "Fantasia"],
+      "quantidadeEpisodios": 64,
+      "urlEpisodio": "https://lightspeedst.net/s2/mp4/fullmetal-alchemist-brotherhood-dublado/sd/",
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Attack on Titan",
+      "descricao": "A humanidade luta contra seres gigantes chamados Titãs que devoram humanos. Eren Yeager jura vingança e se junta ao Corpo de Exploração para derrotar os Titãs e descobrir os segredos por trás de sua existência.",
+      "generos": ["Ação", "Drama", "Fantasia"],
+      "quantidadeEpisodios": 75,
+      "urlEpisodio": "https://lightspeedst.net/s1/mp4/attack-on-titan/sd/",
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Naruto",
+      "descricao": "Naruto Uzumaki, um jovem ninja com o sonho de se tornar o Hokage, líder de sua vila, enfrenta desafios e batalhas emocionantes enquanto aprende sobre amizade, coragem e determinação.",
+      "generos": ["Ação", "Aventura", "Comédia"],
+      "quantidadeEpisodios": 220,
+      "urlEpisodio": "https://lightspeedst.net/s2/mp4/naruto-dublado/sd/",
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/13/17405.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "One Piece",
+      "descricao": "Monkey D. Luffy parte em uma jornada épica para encontrar o tesouro One Piece e se tornar o Rei dos Piratas. Ele forma uma tripulação de piratas e enfrenta perigosos inimigos ao longo do caminho.",
+      "generos": ["Ação", "Aventura", "Comédia"],
+      "quantidadeEpisodios": 1000,
+      "urlEpisodio": "https://lightspeedst.net/s1/mp4/one-piece/sd/",
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+    }
+  ]
   
