@@ -43,6 +43,15 @@
       "quantidadeEpisodios": 1000,
       "urlEpisodio": "https://lightspeedst.net/s1/mp4/one-piece/sd/",
       "urlImagem": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Testando",
+      "descricao": "Monkey D. Luffy parte em uma jornada épica para encontrar o tesouro One Piece e se tornar o Rei dos Piratas. Ele forma uma tripulação de piratas e enfrenta perigosos inimigos ao longo do caminho.",
+      "generos": ["Ação", "Aventura", "Comédia"],
+      "quantidadeEpisodios": 1000,
+      "urlEpisodio": "https://lightspeedst.net/s1/mp4/one-piece/sd/",
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
     }
   ]
   
