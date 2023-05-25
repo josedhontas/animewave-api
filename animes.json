@@ -1,57 +1,205 @@
 [
-    {
-      "id": 1,
-      "titulo": "Death Note",
-      "descricao": "Light Yagami encontra um misterioso caderno que concede o poder de matar qualquer pessoa cujo nome seja escrito nele.",
-      "generos": ["Mistério", "Suspense", "Psicológico"],
-      "quantidadeEpisodios": 37,
-      "urlEpisodio": "https://lightspeedst.net/s3/mp4/death-note/sd/",
-      "urlImagem": "https://cdn.culturagenial.com/imagens/death-note-cartaz.jpg"
-    },
-    {
-      "id": 2,
-      "titulo": "Fullmetal Alchemist: Brotherhood",
-      "descricao": "A história segue os irmãos Edward e Alphonse Elric em sua busca pela Pedra Filosofal para restaurar seus corpos após um desastroso experimento de alquimia.",
-      "generos": ["Ação", "Aventura", "Fantasia"],
-      "quantidadeEpisodios": 64,
-      "urlEpisodio": "https://lightspeedst.net/s2/mp4/fullmetal-alchemist-brotherhood-dublado/sd/",
-      "urlImagem": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg"
-    },
-    {
-      "id": 3,
-      "titulo": "Attack on Titan",
-      "descricao": "A humanidade luta contra seres gigantes chamados Titãs que devoram humanos. Eren Yeager jura vingança e se junta ao Corpo de Exploração para derrotar os Titãs e descobrir os segredos por trás de sua existência.",
-      "generos": ["Ação", "Drama", "Fantasia"],
-      "quantidadeEpisodios": 75,
-      "urlEpisodio": "https://lightspeedst.net/s1/mp4/attack-on-titan/sd/",
-      "urlImagem": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
-    },
-    {
-      "id": 4,
-      "titulo": "Naruto",
-      "descricao": "Naruto Uzumaki, um jovem ninja com o sonho de se tornar o Hokage, líder de sua vila, enfrenta desafios e batalhas emocionantes enquanto aprende sobre amizade, coragem e determinação.",
-      "generos": ["Ação", "Aventura", "Comédia"],
-      "quantidadeEpisodios": 220,
-      "urlEpisodio": "https://lightspeedst.net/s2/mp4/naruto-dublado/sd/",
-      "urlImagem": "https://cdn.myanimelist.net/images/anime/13/17405.jpg"
-    },
-    {
-      "id": 5,
-      "titulo": "One Piece",
-      "descricao": "Monkey D. Luffy parte em uma jornada épica para encontrar o tesouro One Piece e se tornar o Rei dos Piratas. Ele forma uma tripulação de piratas e enfrenta perigosos inimigos ao longo do caminho.",
-      "generos": ["Ação", "Aventura", "Comédia"],
-      "quantidadeEpisodios": 1000,
-      "urlEpisodio": "https://lightspeedst.net/s1/mp4/one-piece/sd/",
-      "urlImagem": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
-    },
-    {
-      "id": 6,
-      "titulo": "Testando",
-      "descricao": "Monkey D. Luffy parte em uma jornada épica para encontrar o tesouro One Piece e se tornar o Rei dos Piratas. Ele forma uma tripulação de piratas e enfrenta perigosos inimigos ao longo do caminho.",
-      "generos": ["Ação", "Aventura", "Comédia"],
-      "quantidadeEpisodios": 1000,
-      "urlEpisodio": "https://lightspeedst.net/s1/mp4/one-piece/sd/",
-      "urlImagem": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "titulo": "Death Note",
+    "descricao": "Light Yagami encontra um misterioso caderno que concede o poder de matar qualquer pessoa cujo nome seja escrito nele.",
+    "generos": [
+      "Mistério",
+      "Suspense",
+      "Psicológico"
+    ],
+    "urlImagem": "https://cdn.culturagenial.com/imagens/death-note-cartaz.jpg",
+    "ano": 2006,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Renascimento",
+        "link": "https://lightspeedst.net/s3/mp4/death-note/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "Confronto",
+        "link": "https://lightspeedst.net/s3/mp4/death-note/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "Negociação",
+        "link": "https://lightspeedst.net/s3/mp4/death-note/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Fullmetal Alchemist: Brotherhood",
+    "descricao": "A história segue os irmãos Edward e Alphonse Elric em sua busca pela Pedra Filosofal para restaurar seus corpos após um desastroso experimento de alquimia.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/1223/96541.jpg",
+    "ano": 2009,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Alquimistas de Aço",
+        "link": "https://lightspeedst.net/s2/mp4/fullmetal-alchemist-brotherhood-dublado/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "A Promessa do Dia de Partida",
+        "link": "https://lightspeedst.net/s2/mp4/fullmetal-alchemist-brotherhood-dublado/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "O Juramento do Alquimista",
+        "link": "https://lightspeedst.net/s2/mp4/fullmetal-alchemist-brotherhood-dublado/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Attack on Titan",
+    "descricao": "A humanidade luta contra seres gigantes chamados Titãs que devoram humanos. Eren Yeager jura vingança e se junta ao Corpo de Exploração para derrotar os Titãs e descobrir os segredos por trás de sua existência.",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Fantasia"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "ano": 2013,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Para Você, naquele Dia",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "A Noite da Disputa",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "Aquele Dia",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Naruto",
+    "descricao": "Naruto Uzumaki, um jovem ninja com o sonho de se tornar o Hokage, líder de sua vila, enfrenta desafios e batalhas emocionantes enquanto aprende sobre amizade, coragem e determinação.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/13/17405.jpg",
+    "ano": 2002,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Naruto Uzumaki Chegando!",
+        "link": "https://lightspeedst.net/s2/mp4/naruto-dublado/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "Meu Nome é Konohamaru!",
+        "link": "https://lightspeedst.net/s2/mp4/naruto-dublado/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "Sasuke e Sakura: Amigos ou Inimigos?",
+        "link": "https://lightspeedst.net/s2/mp4/naruto-dublado/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "One Piece",
+    "descricao": "Monkey D. Luffy parte em uma jornada épica para encontrar o tesouro One Piece e se tornar o Rei dos Piratas. Ele forma uma tripulação de piratas e enfrenta perigosos inimigos ao longo do caminho.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+    "ano": 1999,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Eu Sou Luffy! O Homem Que Se Tornará o Rei dos Piratas!",
+        "link": "https://lightspeedst.net/s1/mp4/one-piece/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "Os Piratas do Ruivo. A Aparição de Shanks, o Ruivo!",
+        "link": "https://lightspeedst.net/s1/mp4/one-piece/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "Morgan, o Homem-Gorila",
+        "link": "https://lightspeedst.net/s1/mp4/one-piece/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Hunter x Hunter",
+    "descricao": "Gon Freecss embarca em uma jornada para se tornar um Hunter, um caçador de tesouros, criaturas mágicas e habilidades incríveis. Ele faz amizades e enfrenta desafios perigosos ao longo do caminho.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
+    "ano": 2011,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Partida x e x Amigos",
+        "link": "https://lightspeedst.net/s1/mp4/hunter-x-hunter-2011/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "A x Família x dos x Super-Heróis",
+        "link": "https://lightspeedst.net/s1/mp4/hunter-x-hunter-2011/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "Riso x e x Diversão",
+        "link": "https://lightspeedst.net/s1/mp4/hunter-x-hunter-2011/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Steins;Gate",
+    "descricao": "Rintarou Okabe, um jovem cientista excêntrico, descobre acidentalmente uma forma de enviar mensagens de texto para o passado. Ele e seus amigos se envolvem em uma conspiração envolvendo viagens no tempo.",
+    "generos": [
+      "Mistério",
+      "Suspense",
+      "Ficção Científica"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+    "ano": 2011,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Pressione X a Qualquer Momento",
+        "link": "https://lightspeedst.net/s2/mp4/steins-gate-dublado/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "Prova do Paradoxo Temporal",
+        "link": "https://lightspeedst.net/s2/mp4/steins-gate-dublado/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "Paradoxo do Telefone Microondas",
+        "link": "https://lightspeedst.net/s2/mp4/steins-gate-dublado/sd/3"
+      }
+    ]
+  }
+]
