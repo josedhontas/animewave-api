@@ -90,6 +90,7 @@ router.get('/:id', (req, res) => {
     descricao: anime.descricao,
     urlImagem: anime.urlImagem,
     quantidadeEpisodios: anime.quantidadeEpisodios,
+    ano: anime.ano,
     urlEpisodio: anime.urlEpisodio,
     episodios: anime.episodios,
   };
