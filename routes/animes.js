@@ -88,11 +88,11 @@ router.get('/:id', (req, res) => {
   const formattedAnime = {
     id: anime.id,
     titulo: anime.titulo,
-    descricao: anime.descricao,
-    urlImagem: anime.urlImagem,
+    //descricao: anime.descricao,
+    //urlImagem: anime.urlImagem,
     numeroEpisodios: anime.numeroEpisodios,
     ano: anime.ano,
-    urlEpisodio: anime.urlEpisodio,
+    //urlEpisodio: anime.urlEpisodio,
     episodios: anime.episodios,
   };
 
