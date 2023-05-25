@@ -58,6 +58,7 @@ router.get('/', (req, res) => {
       titulo: anime.titulo,
       descricao: anime.descricao,
       urlImagem: anime.urlImagem,
+      ano: anime.ano,
     };
   });
 
