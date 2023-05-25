@@ -147,7 +147,7 @@
   {
     "id": 6,
     "titulo": "Hunter x Hunter",
-    "descricao": "Gon Freecss embarca em uma jornada para se tornar um Hunter, um caçador de tesouros, criaturas mágicas e habilidades incríveis. Ele faz amizades e enfrenta desafios perigosos ao longo do caminho.",
+    "descricao": "Gon Freecss embarca em uma jornada para se tornar um Hunter, um profissional de elite que busca tesouros, locais perigosos e criaturas lendárias.",
     "generos": [
       "Ação",
       "Aventura",
@@ -159,46 +159,133 @@
       {
         "numero": 1,
         "titulo": "Partida x e x Amigos",
-        "link": "https://lightspeedst.net/s1/mp4/hunter-x-hunter-2011/sd/1"
+        "link": "https://lightspeedst.net/s3/mp4/hunter-x-hunter-2011/sd/1"
       },
       {
         "numero": 2,
-        "titulo": "A x Família x dos x Super-Heróis",
-        "link": "https://lightspeedst.net/s1/mp4/hunter-x-hunter-2011/sd/2"
+        "titulo": "Teste x Dos x Amigos",
+        "link": "https://lightspeedst.net/s3/mp4/hunter-x-hunter-2011/sd/2"
       },
       {
         "numero": 3,
-        "titulo": "Riso x e x Diversão",
-        "link": "https://lightspeedst.net/s1/mp4/hunter-x-hunter-2011/sd/3"
+        "titulo": "Riso x e x Selos",
+        "link": "https://lightspeedst.net/s3/mp4/hunter-x-hunter-2011/sd/3"
       }
     ]
   },
   {
     "id": 7,
-    "titulo": "Steins;Gate",
-    "descricao": "Rintarou Okabe, um jovem cientista excêntrico, descobre acidentalmente uma forma de enviar mensagens de texto para o passado. Ele e seus amigos se envolvem em uma conspiração envolvendo viagens no tempo.",
+    "titulo": "Dragon Ball Z",
+    "descricao": "Goku e seus amigos protegem a Terra contra poderosos vilões e guerreiros intergalácticos, defendendo-a com suas habilidades de luta e poderes especiais.",
     "generos": [
-      "Mistério",
-      "Suspense",
-      "Ficção Científica"
+      "Ação",
+      "Aventura",
+      "Fantasia"
     ],
-    "urlImagem": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
-    "ano": 2011,
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/6/10.jpg",
+    "ano": 1989,
     "episodios": [
       {
         "numero": 1,
-        "titulo": "Pressione X a Qualquer Momento",
-        "link": "https://lightspeedst.net/s2/mp4/steins-gate-dublado/sd/1"
+        "titulo": "O Começo de Tudo",
+        "link": "https://lightspeedst.net/s2/mp4/dragon-ball-z/sd/1"
       },
       {
         "numero": 2,
-        "titulo": "Prova do Paradoxo Temporal",
-        "link": "https://lightspeedst.net/s2/mp4/steins-gate-dublado/sd/2"
+        "titulo": "O Enigma das Esferas do Dragão",
+        "link": "https://lightspeedst.net/s2/mp4/dragon-ball-z/sd/2"
       },
       {
         "numero": 3,
-        "titulo": "Paradoxo do Telefone Microondas",
-        "link": "https://lightspeedst.net/s2/mp4/steins-gate-dublado/sd/3"
+        "titulo": "Uma Nuvem Negra Pairando Sobre a Terra",
+        "link": "https://lightspeedst.net/s2/mp4/dragon-ball-z/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "One Punch Man",
+    "descricao": "Saitama é um super-herói extremamente poderoso que derrota qualquer inimigo com apenas um soco. No entanto, sua força esmagadora se tornou tediosa e ele busca por um desafio real.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Paródia"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
+    "ano": 2015,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "O Homem Mais Forte do Mundo",
+        "link": "https://lightspeedst.net/s1/mp4/one-punch-man/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "O Discípulo",
+        "link": "https://lightspeedst.net/s1/mp4/one-punch-man/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "A Casa do Rei das Profundezas",
+        "link": "https://lightspeedst.net/s1/mp4/one-punch-man/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Demon Slayer: Kimetsu no Yaiba",
+    "descricao": "Tanjiro Kamado se torna um caçador de demônios para vingar sua família e encontrar uma cura para sua irmã que se tornou um demônio. Ele se junta aos Caçadores de Demônios para derrotar as criaturas malignas e descobrir a verdade por trás de sua existência.",
+    "generos": [
+      "Ação",
+      "Demônios",
+      "Histórico"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/1286/112127.jpg",
+    "ano": 2019,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Crueldade",
+        "link": "https://lightspeedst.net/s1/mp4/kimetsu-no-yaiba/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "Além das Montanhas",
+        "link": "https://lightspeedst.net/s1/mp4/kimetsu-no-yaiba/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "Sabre de Demônio Agora",
+        "link": "https://lightspeedst.net/s1/mp4/kimetsu-no-yaiba/sd/3"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "My Hero Academia",
+    "descricao": "Izuku Midoriya sonha em se tornar um herói, mas nasceu sem poderes. No entanto, ele recebe o poder One For All e entra na academia para heróis, onde aprende a usar suas habilidades e enfrenta ameaças cada vez maiores.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia"
+    ],
+    "urlImagem": "https://cdn.myanimelist.net/images/anime/1713/96541.jpg",
+    "ano": 2016,
+    "episodios": [
+      {
+        "numero": 1,
+        "titulo": "Izuku Midoriya: Origem",
+        "link": "https://lightspeedst.net/s2/mp4/boku-no-hero-academia-dublado/sd/1"
+      },
+      {
+        "numero": 2,
+        "titulo": "Aqueles Que São Aceitos",
+        "link": "https://lightspeedst.net/s2/mp4/boku-no-hero-academia-dublado/sd/2"
+      },
+      {
+        "numero": 3,
+        "titulo": "Entrando na U.A. High School",
+        "link": "https://lightspeedst.net/s2/mp4/boku-no-hero-academia-dublado/sd/3"
       }
     ]
   }
