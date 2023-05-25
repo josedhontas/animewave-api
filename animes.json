@@ -288,5 +288,141 @@
         "link": "https://lightspeedst.net/s2/mp4/boku-no-hero-academia-dublado/sd/3"
       }
     ]
-  }
+  },
+    {
+      "id": 11,
+      "titulo": "Demon Slayer: Kimetsu no Yaiba - Mugen Train",
+      "descricao": "Após os eventos da primeira temporada, Tanjiro, Nezuko, Zenitsu e Inosuke embarcam em uma missão no Demon Slayer - Mugen Train para investigar o desaparecimento de pessoas em um trem misterioso.",
+      "generos": [
+        "Ação",
+        "Demônios",
+        "Histórico"
+      ],
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/1361/114784.jpg",
+      "ano": 2020,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Demon Slayer: Kimetsu no Yaiba - Mugen Train",
+          "link": "https://lightspeedst.net/s1/mp4/kimetsu-no-yaiba-movie-dublado/sd/1"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "titulo": "Jujutsu Kaisen",
+      "descricao": "Yuji Itadori se torna um estudante de feiticeiro após engolir um dedo amaldiçoado e se juntar à Escola Técnica de Jujutsu Tokyo. Ele luta contra maldições e protege as pessoas do mundo sobrenatural.",
+      "generos": [
+        "Ação",
+        "Demônios",
+        "Sobrenatural"
+      ],
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/1496/109747.jpg",
+      "ano": 2020,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Ressurreição",
+          "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/1"
+        },
+        {
+          "numero": 2,
+          "titulo": "Para Você, em Duas Semanas",
+          "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/2"
+        },
+        {
+          "numero": 3,
+          "titulo": "Garoto Gato",
+          "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/3"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "titulo": "Tokyo Revengers",
+      "descricao": "Takemichi Hanagaki descobre que sua ex-namorada e seus amigos de infância estão envolvidos em uma gangue criminosa. Ele volta no tempo para mudar o passado e evitar tragédias.",
+      "generos": [
+        "Ação",
+        "Drama",
+        "Escolar"
+      ],
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/1704/117202.jpg",
+      "ano": 2021,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Reencontro",
+          "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/1"
+        },
+        {
+          "numero": 2,
+          "titulo": "Resolução",
+          "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/2"
+        },
+        {
+          "numero": 3,
+          "titulo": "Manicômio",
+          "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/3"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "titulo": "Attack on Titan: The Final Season",
+      "descricao": "A quarta temporada de Attack on Titan segue a batalha épica entre os humanos e os Titãs. Eren Jaeger e seus aliados lutam para descobrir a verdade por trás dos Titãs e o futuro da humanidade.",
+      "generos": [
+        "Ação",
+        "Drama",
+        "Fantasia"
+      ],
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/1000/107103.jpg",
+      "ano": 2020,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "O Outro Lado do Mar",
+          "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/1"
+        },
+        {
+          "numero": 2,
+          "titulo": "O Guerreiro Titã",
+          "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/2"
+        },
+        {
+          "numero": 3,
+          "titulo": "Os Condenados",
+          "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/3"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "titulo": "Black Clover",
+      "descricao": "Asta e Yuno são órfãos que vivem em um mundo onde magia é tudo. Enquanto Yuno possui poderes mágicos excepcionais, Asta é o único sem nenhum. Eles competem para se tornarem o Rei Mago.",
+      "generos": [
+        "Ação",
+        "Comédia",
+        "Fantasia"
+      ],
+      "urlImagem": "https://cdn.myanimelist.net/images/anime/6/82785.jpg",
+      "ano": 2017,
+      "episodios": [
+        {
+          "numero": 1,
+          "titulo": "Ast a e Yuno",
+          "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/1"
+        },
+        {
+          "numero": 2,
+          "titulo": "O Garoto Mágico Novato",
+          "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/2"
+        },
+        {
+          "numero": 3,
+          "titulo": "Para Aquela Mão",
+          "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/3"
+        }
+      ]
+    }
+  
 ]
