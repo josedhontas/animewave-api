@@ -69,8 +69,15 @@ router.get('/', (req, res) => {
 
 router.get('/video', function(req, res) {
   const videoPath = './video/video.mp4';
+  const videoSize = fs.statSync(videoPath).size;
 
   const videoStream = fs.createReadStream(videoPath);
+  const headers = {
+    'Content-Length': videoSize,
+    'Content-Type': 'video/mp4',
+  };
+
+  res.writeHead(200, headers);
   videoStream.pipe(res);
 });
 
