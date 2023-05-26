@@ -67,6 +67,14 @@ router.get('/', (req, res) => {
 });
 
 
+router.get('/video', function(req, res) {
+  const videoPath = './video/video.mp4';
+
+  const videoStream = fs.createReadStream(videoPath);
+  videoStream.pipe(res);
+});
+
+
 
 router.get('/:id', (req, res) => {
   const id = parseInt(req.params.id);
