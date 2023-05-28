@@ -753,11 +753,7 @@
     "id": 12,
     "titulo": "Jujutsu Kaisen",
     "descricao": "Yuji Itadori se torna um estudante de feiticeiro após engolir um dedo amaldiçoado e se juntar à Escola Técnica de Jujutsu Tokyo. Ele luta contra maldições e protege as pessoas do mundo sobrenatural.",
-    "generos": [
-      "Ação",
-      "Demônios",
-      "Sobrenatural"
-    ],
+    "generos": ["Ação", "Demônios", "Sobrenatural"],
     "numeroEpisodios": 24,
     "urlImagem": "https://i.pinimg.com/564x/25/db/a5/25dba53ae14630b01af7f695f88abc37.jpg",
     "ano": 2020,
@@ -776,6 +772,41 @@
         "numero": 3,
         "titulo": "Garoto Gato",
         "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/3"
+      },
+      {
+        "numero": 4,
+        "titulo": "Exorcismo de Vassoura",
+        "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/4"
+      },
+      {
+        "numero": 5,
+        "titulo": "Incidente na Vila dos Feiticeiros",
+        "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/5"
+      },
+      {
+        "numero": 6,
+        "titulo": "Está Morto",
+        "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/6"
+      },
+      {
+        "numero": 7,
+        "titulo": "Eleito",
+        "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/7"
+      },
+      {
+        "numero": 8,
+        "titulo": "Batalha de Kyoto: Segundo Round",
+        "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/8"
+      },
+      {
+        "numero": 9,
+        "titulo": "Batalha de Kyoto: Terceiro Round",
+        "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/9"
+      },
+      {
+        "numero": 10,
+        "titulo": "Batalha de Kyoto: Quarto Round",
+        "link": "https://lightspeedst.net/s1/mp4/jujutsu-kaisen/sd/10"
       }
     ]
   },
@@ -783,11 +814,7 @@
     "id": 13,
     "titulo": "Tokyo Revengers",
     "descricao": "Takemichi Hanagaki descobre que sua ex-namorada e seus amigos de infância estão envolvidos em uma gangue criminosa. Ele volta no tempo para mudar o passado e evitar tragédias.",
-    "generos": [
-      "Ação",
-      "Drama",
-      "Escolar"
-    ],
+    "generos": ["Ação", "Drama", "Escolar"],
     "numeroEpisodios": 24,
     "urlImagem": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/70975a1227b453c1caf24fa05a93617d.jpe",
     "ano": 2021,
@@ -806,18 +833,50 @@
         "numero": 3,
         "titulo": "Manicômio",
         "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/3"
+      },
+      {
+        "numero": 4,
+        "titulo": "Reviravolta",
+        "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/4"
+      },
+      {
+        "numero": 5,
+        "titulo": "Promessa",
+        "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/5"
+      },
+      {
+        "numero": 6,
+        "titulo": "Perseguição",
+        "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/6"
+      },
+      {
+        "numero": 7,
+        "titulo": "Traição",
+        "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/7"
+      },
+      {
+        "numero": 8,
+        "titulo": "Revolta",
+        "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/8"
+      },
+      {
+        "numero": 9,
+        "titulo": "Despedida",
+        "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/9"
+      },
+      {
+        "numero": 10,
+        "titulo": "Determinação",
+        "link": "https://lightspeedst.net/s1/mp4/tokyo-revengers/sd/10"
       }
     ]
   },
+  
   {
     "id": 14,
     "titulo": "Attack on Titan: The Final Season",
     "descricao": "A quarta temporada de Attack on Titan segue a batalha épica entre os humanos e os Titãs. Eren Jaeger e seus aliados lutam para descobrir a verdade por trás dos Titãs e o futuro da humanidade.",
-    "generos": [
-      "Ação",
-      "Drama",
-      "Fantasia"
-    ],
+    "generos": ["Ação", "Drama", "Fantasia"],
     "urlImagem": "https://pbs.twimg.com/media/FVcjboDXwAE4kd0.jpg",
     "ano": 2020,
     "episodios": [
@@ -835,9 +894,45 @@
         "numero": 3,
         "titulo": "Os Condenados",
         "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/3"
+      },
+      {
+        "numero": 4,
+        "titulo": "Crianças da Floresta",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/4"
+      },
+      {
+        "numero": 5,
+        "titulo": "O Martelo de Guerra",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/5"
+      },
+      {
+        "numero": 6,
+        "titulo": "O Guia",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/6"
+      },
+      {
+        "numero": 7,
+        "titulo": "Assalto",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/7"
+      },
+      {
+        "numero": 8,
+        "titulo": "Assassinos",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/8"
+      },
+      {
+        "numero": 9,
+        "titulo": "Voluntários",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/9"
+      },
+      {
+        "numero": 10,
+        "titulo": "Pecado",
+        "link": "https://lightspeedst.net/s1/mp4/attack-on-titan-the-final-season/sd/10"
       }
     ]
   },
+  
   {
     "id": 15,
     "titulo": "Black Clover",
