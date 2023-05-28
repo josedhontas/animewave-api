@@ -500,6 +500,8 @@
     ],
     "urlImagem": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
     "ano": 2013,
+    "numeroEpisodios": 25,
+
     "episodios": [
       {
         "numero": 1,
@@ -529,6 +531,7 @@
     ],
     "urlImagem": "https://static.anroll.net/images/animes/capas/naruto-dublado.jpg",
     "ano": 2002,
+    "numeroEpisodios": 220,
     "episodios": [
       {
         "numero": 1,
@@ -558,6 +561,7 @@
     ],
     "urlImagem": "https://http2.mlstatic.com/D_NQ_NP_666184-MLB51033948517_082022-O.jpg",
     "ano": 1999,
+    "numeroEpisodios": 1000,
     "episodios": [
       {
         "numero": 1,
@@ -585,6 +589,7 @@
       "Aventura",
       "Fantasia"
     ],
+    "numeroEpisodios": 148,
     "urlImagem": "https://m.media-amazon.com/images/I/71CirqcvjKL._AC_SY679_.jpg",
     "ano": 2011,
     "episodios": [
@@ -614,6 +619,7 @@
       "Aventura",
       "Fantasia"
     ],
+    "numeroEpisodios": 291,
     "urlImagem": "https://i.pinimg.com/originals/ca/e4/13/cae413ad4fdadf85d1505a579a604cd2.jpg",
     "ano": 1989,
     "episodios": [
@@ -643,6 +649,7 @@
       "Comédia",
       "Paródia"
     ],
+    "numeroEpisodios": 24,
     "urlImagem": "https://cdn.myanimelist.net/images/anime/12/76049.jpg",
     "ano": 2015,
     "episodios": [
@@ -672,6 +679,7 @@
       "Demônios",
       "Histórico"
     ],
+    "numeroEpisodios": 26,
     "urlImagem": "https://img.elo7.com.br/product/zoom/26A822C/big-poster-anime-demon-slayer-kimetsu-no-yaiba-lo12-90x60-cm-poster-anime.jpg",
     "ano": 2019,
     "episodios": [
@@ -701,6 +709,7 @@
       "Aventura",
       "Comédia"
     ],
+    "numeroEpisodios": 138,
     "urlImagem": "https://i.pinimg.com/564x/61/37/39/613739aa5b5e6cae7b67255a00be4d7d.jpg",
     "ano": 2016,
     "episodios": [
@@ -749,6 +758,7 @@
       "Demônios",
       "Sobrenatural"
     ],
+    "numeroEpisodios": 24,
     "urlImagem": "https://i.pinimg.com/564x/25/db/a5/25dba53ae14630b01af7f695f88abc37.jpg",
     "ano": 2020,
     "episodios": [
@@ -778,6 +788,7 @@
       "Drama",
       "Escolar"
     ],
+    "numeroEpisodios": 24,
     "urlImagem": "https://www.crunchyroll.com/imgsrv/display/thumbnail/480x720/catalog/crunchyroll/70975a1227b453c1caf24fa05a93617d.jpe",
     "ano": 2021,
     "episodios": [
@@ -836,6 +847,7 @@
       "Comédia",
       "Fantasia"
     ],
+    "numeroEpisodios": 170,
     "urlImagem": "https://cosmonerd.com.br//uploads/2020/12/cosmonerd-black-clover-spade-1-optimized.jpg",
     "ano": 2017,
     "episodios": [
