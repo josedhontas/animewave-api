@@ -842,11 +842,7 @@
     "id": 15,
     "titulo": "Black Clover",
     "descricao": "Asta e Yuno são órfãos que vivem em um mundo onde magia é tudo. Enquanto Yuno possui poderes mágicos excepcionais, Asta é o único sem nenhum. Eles competem para se tornarem o Rei Mago.",
-    "generos": [
-      "Ação",
-      "Comédia",
-      "Fantasia"
-    ],
+    "generos": ["Ação", "Comédia", "Fantasia"],
     "numeroEpisodios": 170,
     "urlImagem": "https://cosmonerd.com.br//uploads/2020/12/cosmonerd-black-clover-spade-1-optimized.jpg",
     "ano": 2017,
@@ -865,7 +861,43 @@
         "numero": 3,
         "titulo": "Para Aquela Mão",
         "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/3"
+      },
+      {
+        "numero": 4,
+        "titulo": "O Pacto dos Irmãos",
+        "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/4"
+      },
+      {
+        "numero": 5,
+        "titulo": "O Caminho da Honra",
+        "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/5"
+      },
+      {
+        "numero": 6,
+        "titulo": "O Trono Substituto",
+        "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/6"
+      },
+      {
+        "numero": 7,
+        "titulo": "A Três Foice da Lâmina das Chamas",
+        "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/7"
+      },
+      {
+        "numero": 8,
+        "titulo": "Os Magos da Black Bulls",
+        "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/8"
+      },
+      {
+        "numero": 9,
+        "titulo": "Beijo de Cereja",
+        "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/9"
+      },
+      {
+        "numero": 10,
+        "titulo": "Ataque Surpresa na Cidade",
+        "link": "https://lightspeedst.net/s1/mp4/black-clover/sd/10"
       }
     ]
   }
+  
 ]
