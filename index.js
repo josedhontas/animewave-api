@@ -2,7 +2,7 @@ const express = require('express');
 const animesRouter = require('./routes/animes');
 const app = express();
 const cors = require('cors');
-const port = 8000;
+const port = 3000;
 const swagger = require('./swagger');
 
 
