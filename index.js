@@ -8,6 +8,7 @@ const swagger = require('./swagger');
 
 app.use(cors());
 app.use(express.json());
+//teste
 
 app.use('/animes', animesRouter);
 
