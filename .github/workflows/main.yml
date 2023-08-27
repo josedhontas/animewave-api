@@ -15,7 +15,7 @@ jobs:
       - name: Build
         env:
           CI: false        
-        run: npm run build
+        run: node index
       - name: Archive Production Artifact
         uses: actions/upload-artifact@v2
         with:
