@@ -2,21 +2,21 @@
   {
     "id": 1,
     "titulo": "A viagem de Chihiro",
-    "descricao": "Light Yagami encontra um misterioso caderno que concede o poder de matar qualquer pessoa cujo nome seja escrito nele.",
+    "descricao": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los.",
     "generos": [
       "Mistério",
       "Suspense",
       "Psicológico"
     ],
     
-    "urlImagem": "https://cdn.culturagenial.com/imagens/death-note-cartaz.jpg",
-    "ano": 2006,
+    "urlImagem": "https://br.web.img3.acsta.net/pictures/210/527/21052756_20131024195513383.jpg",
+    "ano": 2001,
     "numeroEpisodios": 37,
     "episodios": [
       {
         "numero": 1,
-        "titulo": "Renascimento",
-        "link": "https://animewave12.nyc3.digitaloceanspaces.com/death-note/1.mp4"
+        "titulo": "Filme",
+        "link": "https://firebasestorage.googleapis.com/v0/b/animewave-41b4b.appspot.com/o/videos%2Ffilmes%2Fchihiro%2FA%20viagem%20de%20chihiro.mp4?alt=media&token=80e0ce8a-147c-4e62-a047-04f64518f9ac"
       }
     ]
   }
